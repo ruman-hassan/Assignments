@@ -1,5 +1,5 @@
 # Assignments
-This repository contains assignments done in class. Varies from Computer Graphics and Machine Learning.
+This repository contains assignments done in class. Varies from Computer Graphics, Data Structures & Algorithms and Machine Learning.
 ## Setup
 ### For Computer Graphics
 Install Pycairo: `pip install cairo`
